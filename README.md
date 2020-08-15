@@ -1,5 +1,10 @@
 # electron-boilerplate
 
+## Included packages
+- [sass](https://www.npmjs.com/package/sass)
+- [bootstrap 5 alpha](https://www.npmjs.com/package/bootstrap/v/next)
+- [cutlery.js](https://www.npmjs.com/package/cutleryjs)
+
 ## Commands
 #### Install dependencies
 ```bash
